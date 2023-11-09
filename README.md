@@ -49,7 +49,36 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+
+### Initial Dataset:
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/72142d0f-2542-4dd5-8b21-5a5f75341a1b)
+
+### data info:
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/79316151-db55-43d0-aad9-b0a92646a7e6)
+
+### null values:
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/3590c562-4223-46a6-b3a3-631a8d641852)
+
+### assignment of x and y values:
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/80e1aadf-4668-4c29-9d4f-7e5cbf184420)
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/24c9f6de-5845-49da-b9c3-880d6a528e5b)
+
+### Converting string literals to numerical values using label encoder:
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/37280f6d-4485-4949-9955-3ec3b5eea0d8)
+
+### Accuracy:
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/ddf0360f-5660-48ad-b3c4-8614fd1c093e)
+
+### Prediction:
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118680361/04e0f7e1-2552-46a2-8d49-110a2648d449)
 
 
 ## Result:
